@@ -6,7 +6,6 @@ body {
     color: #fff;
     background: #050505;
     scroll-behavior:smooth;
-    
 }
 
 body::-webkit-scrollbar{
