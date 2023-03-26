@@ -380,9 +380,9 @@ nav.header .a:hover ~ .cursor {
 .second-container>ul>li.active:after{
     content: "";
     top: 20px;
-    width: 50px;
+    width: 90px;
     height: 2px;
-    background: #fff;
+    background: #ffffff90;
     position: relative;
     left: 0px;
     display: block;
@@ -539,4 +539,5 @@ nav.header .a:hover ~ .cursor {
     .third>p{
         column-count: 1;
     }
+
 }
